@@ -1,4 +1,4 @@
-# C -- MBinary trees
+# C -- Binary trees
 In this project i learned;
 - What is a binary tree
 - What is the difference between a binary tree and a - Binary Search Tree
