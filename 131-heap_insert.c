@@ -143,5 +143,3 @@ heap_t *heap_insert(heap_t **root, int value)
 		swap(root, &((*root)->right));
 		return (new_node);
 	}
-
-
